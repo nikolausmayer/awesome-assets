@@ -6,12 +6,12 @@ Unless noted otherwise, no usage restrictions like "non-commercial" or "research
 
 ## 3D Models
 
-* [https://polyhaven.com/models](Poly Haven (Models))
-* [https://threedscans.com/](Three D Scans)
-* [https://3d.si.edu/explore?edan_q=*:*&edan_fq[]=media_usage:%22CC0%22](The Smithsonian Institution)
+* [Poly Haven (Models)](https://polyhaven.com/models)
+* [Three D Scans](https://threedscans.com/)
+* [The Smithsonian Institution](https://3d.si.edu/explore?edan_q=*:*&edan_fq[]=media_usage:%22CC0%22)
 
 ## Textures
 
-* [https://polyhaven.com/textures](Poly Haven (Textures))
-* [https://polyhaven.com/hdris](Poly Haven (HDRIs))
+* [Poly Haven (Textures)](https://polyhaven.com/textures)
+* [Poly Haven (HDRIs)](https://polyhaven.com/hdris)
 
